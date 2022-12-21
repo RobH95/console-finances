@@ -1,11 +1,8 @@
 # Console-Finances
 
-* [Description](#description)
 * [Usage](#usage)
 * [Screenshots](#screenshots)
 * [License](#license)
-
-## Description
 
 ## Usage
 Open index.html and use Inspect Element/browser tools to view the JavaScript console output.
